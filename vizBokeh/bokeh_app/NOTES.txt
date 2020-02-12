@@ -1,0 +1,7 @@
+The main application is located in the bokeh_app folder. 
+
+To run the application, open a command prompt, change to the directory containing bokeh_app 
+
+run bokeh serve --show bokeh_app/. 
+
+This runs a bokeh server locally and will automatically open the interactive dashboard in your browser at localhost:5006.
